@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jeantetlorene.github.io/sitemap.xml
+Sitemap: https://yassir-249.github.io/jeantetlorene.github.io/sitemap.xml
